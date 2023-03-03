@@ -1,0 +1,32 @@
+,cause_of_death,temp_evo
+2,Alzheimer's Disease and Other Dementias,0.9968561595592207
+3,Parkinson's Disease,0.995278247710825
+13,Lower Respiratory Infections,0.994335902599229
+20,Neoplasms,0.9889174017394483
+10,Drug Use Disorders,0.985296838493235
+23,Chronic Kidney Disease,0.9748671022805182
+27,Chronic Respiratory Diseases,0.9727000745559663
+29,Digestive Diseases,0.9525850638389751
+26,Road Injuries,0.9502479579888408
+28,Cirrhosis and Other Chronic Liver Diseases,0.9268459465496393
+16,Self-harm,0.9134868980418046
+7,Interpersonal Violence,0.7774777920346516
+22,Diabetes Mellitus,0.7627378315664127
+9,HIV/AIDS,0.5709706289613253
+12,Cardiovascular Diseases,0.08700563456654933
+19,Environmental Heat and Cold Exposure,0.07453196717634858
+30,"Fire, Heat, and Hot Substances",-0.026839946009115344
+17,Exposure to Forces of Nature,-0.16564274661738934
+8,Maternal Disorders,-0.23819569412631714
+4,Nutritional Deficiencies,-0.2781883077913848
+25,Protein-Energy Malnutrition,-0.3214648464348563
+24,Poisonings,-0.40455566401751114
+18,Diarrheal Diseases,-0.5711439733705771
+21,Conflict and Terrorism,-0.7089260294782183
+15,Alcohol Use Disorders,-0.8542434955479312
+31,Acute Hepatitis,-0.9035214447518025
+11,Tuberculosis,-0.939634755841834
+5,Malaria,-0.967046549811083
+1,Meningitis,-0.9708863271094004
+14,Neonatal Disorders,-0.9817786370529746
+6,Drowning,-0.9840014839374228
